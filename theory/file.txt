@@ -1,0 +1,9 @@
+Строка 1
+Строка 2
+Строка 3
+New string
+New string_1
+New string_2
+
+New string_1
+New string_2
